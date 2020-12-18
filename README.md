@@ -1,1 +1,1 @@
-# Budget calculator app.
+# Budget calculator app
